@@ -1,0 +1,35 @@
+.menu{
+	 margin-bottom: 0;
+      border-radius: 0;
+      border: 1px solid #CDC9C9;
+      background-color: #FFF;
+      border-bottom: 3px solid #CDC9C9;
+      border-radius: 3px;
+}
+.logo{
+	margin-top: 10px;	
+}
+.menuright{
+	float: right;
+	margin-right: 50px;
+	margin-top: -45px;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 15px;
+	word-spacing: 2px;
+}
+a:link{
+	text-decoration:none;
+	color:#a9a9a9;
+}
+a:visited {
+	text-decoration:none;
+	color:#a9a9a9;
+}
+a:active { 
+	color: #a9a9a9; 
+	text-decoration: none; 
+}
+a:hover {
+	color: #a9a9a9;
+	text-decoration:none;
+}
